@@ -1,9 +1,13 @@
 name = "FiniteDifferenceSC"
 uuid = "1a638cd3-6398-40ca-a8a0-884cfede8f0d"
-authors = ["S.C."]
 version = "1.0.0"
+authors = ["S.C."]
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 [compat]
+LinearAlgebra = "1.12.0"
 julia = "1.10.10"
 
 [extras]
