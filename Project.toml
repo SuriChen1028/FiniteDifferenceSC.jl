@@ -1,7 +1,7 @@
 name = "FiniteDifferenceSC"
 uuid = "1a638cd3-6398-40ca-a8a0-884cfede8f0d"
 authors = ["S.C."]
-version = "1.0.0-DEV"
+version = "1.0.0"
 
 [compat]
 julia = "1.10.10"
